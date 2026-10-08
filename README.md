@@ -2,8 +2,9 @@
 
 ## 소개 페이지입니다.  
 
-### 테스트
-- 첫번째
+### 챕리스 일경험 4기
+- [repo link](https://github.com/Fabless-Academy/Fab04-02-KJY)
+
 - 두번째
   - 하위 첫번째
 
