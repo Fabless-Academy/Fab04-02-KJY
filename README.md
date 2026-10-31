@@ -4,7 +4,7 @@
 
 ### 챕리스 일경험 4기
 - [repo link](https://github.com/Fabless-Academy/Fab04-02-KJY)
-- [텔레칩스] (https://github.com/Fabless-Academy/Fab04-02-KJY/blob/main/telechips.md)
+- [텔레칩스](https://github.com/Fabless-Academy/Fab04-02-KJY/blob/main/telechips.md)
 - 두번째
   - 하위 첫번째
 
