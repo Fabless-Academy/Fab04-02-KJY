@@ -25,7 +25,7 @@
 - **Lane ID 부여**: 객체의 `bev_x` 좌표를 기반으로 차량이 자차 차로(Ego Lane)의 앞차인지 판단합니다.
 
 ### 2.2. 앞차 거리 비율 기반 속도 제어
-BEV 상에서의 y좌표 비율($r = \frac{\text{bev\_y}}{\text{bev\_height}}$)에 따라 차량의 권장 속도를 제어합니다.
+BEV 상에서의 y좌표 비율($r = \frac{\mathit{bev}\_{y}}{\text{bev}\_{\text{height}}}$)에 따라 차량의 권장 속도를 제어합니다.
 
 - **기본 속도 범위**: $0 \sim 70\text{ km/h}$ (기본 설정: $50\text{ km/h}$)
 - **거리 비율($r$)에 따른 속도 공식**:
